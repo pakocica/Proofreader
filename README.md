@@ -9,8 +9,7 @@ The Colab notebook in this repository allows users to upload their LaTeX files a
 ## How to Use
 
 1. **Open the Colab Notebook**  
-   Click on the link below to open the Colab notebook:  
-   [https://colab.research.google.com/github/pakocica/Proofreader/blob/main/Correct_typos_latex.ipynb](https://colab.research.google.com/github/pakocica/Proofreader/blob/main/Correct_typos_latex.ipynb))
+   Click on the link below to open the Colab notebook: [https://colab.research.google.com/github/pakocica/Proofreader/blob/main/Proofread_LaTeX.ipynb](https://colab.research.google.com/github/pakocica/Proofreader/blob/main/Proofread_LaTeX.ipynb)
 
 2. **Follow the Instructions**  
    Once the notebook is open, follow the step-by-step instructions provided in notebook to upload your LaTeX file and start the proofreading process.
